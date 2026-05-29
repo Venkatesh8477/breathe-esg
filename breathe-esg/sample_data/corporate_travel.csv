@@ -1,0 +1,46 @@
+trip_id,traveler_name,department,travel_date,category,origin,destination,distance_km,class,nights,hotel_city,cost_usd,booking_ref
+TRP-2024-001,Sarah Chen,Engineering,2024-01-08,Flight,FRA,SIN,,Business,,,,BK-001
+TRP-2024-002,Marcus Weber,Sales,2024-01-10,Flight,FRA,LHR,,Economy,,,,BK-002
+TRP-2024-003,Sarah Chen,Engineering,2024-01-10,Hotel,,,,,4,Singapore,1840,BK-003
+TRP-2024-004,Marcus Weber,Sales,2024-01-10,Hotel,,,,,2,London,560,BK-004
+TRP-2024-005,Priya Nair,Finance,2024-01-12,Flight,BLR,FRA,,Economy,,,,BK-005
+TRP-2024-006,Tom Akkerman,Operations,2024-01-15,Ground,AMS,FRA,480,,,,,BK-006
+TRP-2024-007,Priya Nair,Finance,2024-01-14,Hotel,,,,,3,Frankfurt,690,BK-007
+TRP-2024-008,James O'Brien,Sales,2024-01-18,Flight,LHR,JFK,,Business,,,,BK-008
+TRP-2024-009,James O'Brien,Sales,2024-01-18,Hotel,,,,,5,New York,2750,BK-009
+TRP-2024-010,Yuki Tanaka,Engineering,2024-01-20,Flight,NRT,FRA,,Economy,,,,BK-010
+TRP-2024-011,Sarah Chen,Engineering,2024-01-12,Flight,SIN,BOM,,Economy,,,,BK-011
+TRP-2024-012,Sarah Chen,Engineering,2024-01-13,Hotel,,,,,2,Mumbai,420,BK-012
+TRP-2024-013,Marcus Weber,Sales,2024-01-22,Flight,FRA,CDG,,Economy,,,,BK-013
+TRP-2024-014,Tom Akkerman,Operations,2024-01-24,Ground,FRA,MUC,300,,,,,BK-014
+TRP-2024-015,Yuki Tanaka,Engineering,2024-01-22,Hotel,,,,,2,Frankfurt,480,BK-015
+TRP-2024-016,Aisha Okonkwo,HR,2024-01-25,Flight,LHR,NBO,,Economy,,,,BK-016
+TRP-2024-017,Aisha Okonkwo,HR,2024-01-27,Hotel,,,,,4,Nairobi,680,BK-017
+TRP-2024-018,Marcus Weber,Sales,2024-01-26,Flight,CDG,AMS,,Economy,,,,BK-018
+TRP-2024-019,James O'Brien,Sales,2024-01-24,Flight,JFK,LHR,,Business,,,,BK-019
+TRP-2024-020,Diego Ramirez,Engineering,2024-02-01,Flight,MEX,FRA,,Economy,,,,BK-020
+TRP-2024-021,Diego Ramirez,Engineering,2024-02-03,Hotel,,,,,5,Frankfurt,1150,BK-021
+TRP-2024-022,Priya Nair,Finance,2024-02-05,Flight,FRA,BLR,,Economy,,,,BK-022
+TRP-2024-023,Tom Akkerman,Operations,2024-02-07,Ground,FRA,AMS,450,,,,,BK-023
+TRP-2024-024,Sarah Chen,Engineering,2024-02-10,Flight,SIN,HKG,,Business,,,,BK-024
+TRP-2024-025,Sarah Chen,Engineering,2024-02-10,Hotel,,,,,3,Hong Kong,1620,BK-025
+TRP-2024-026,Marcus Weber,Sales,2024-02-12,Flight,FRA,ZRH,,Economy,,,,BK-026
+TRP-2024-027,Yuki Tanaka,Engineering,2024-02-14,Flight,NRT,LAX,,Business,,,,BK-027
+TRP-2024-028,Yuki Tanaka,Engineering,2024-02-15,Hotel,,,,,4,Los Angeles,2180,BK-028
+TRP-2024-029,James O'Brien,Sales,2024-02-16,Flight,LHR,DXB,,Economy,,,,BK-029
+TRP-2024-030,Aisha Okonkwo,HR,2024-02-18,Flight,NBO,JNB,,Economy,,,,BK-030
+TRP-2024-031,Diego Ramirez,Engineering,2024-02-20,Ground,FRA,MUC,300,,,,,BK-031
+TRP-2024-032,Chen Wei,Product,2024-02-22,Flight,PEK,FRA,,Business,,,,BK-032
+TRP-2024-033,Chen Wei,Product,2024-02-24,Hotel,,,,,4,Frankfurt,920,BK-033
+TRP-2024-034,Sarah Chen,Engineering,2024-02-13,Flight,HKG,SIN,,Business,,,,BK-034
+TRP-2024-035,James O'Brien,Sales,2024-02-17,Flight,DXB,LHR,,Economy,,,,BK-035
+TRP-2024-036,Fatima Al-Hassan,Legal,2024-03-01,Flight,DXB,LHR,,Economy,,,,BK-036
+TRP-2024-037,Marcus Weber,Sales,2024-03-03,Flight,FRA,SFO,,Economy,,,,BK-037
+TRP-2024-038,Marcus Weber,Sales,2024-03-05,Hotel,,,,,5,San Francisco,2950,BK-038
+TRP-2024-039,Tom Akkerman,Operations,2024-03-07,Ground,,,15,,,,,BK-039
+TRP-2024-040,Priya Nair,Finance,2024-03-08,Flight,BLR,DEL,,Economy,,,,BK-040
+TRP-2024-041,Priya Nair,Finance,2024-03-09,Hotel,,,,,2,New Delhi,310,BK-041
+TRP-2024-042,Yuki Tanaka,Engineering,2024-03-10,Flight,LAX,NRT,,Business,,,,BK-042
+TRP-2024-043,Chen Wei,Product,2024-03-12,Flight,FRA,PEK,,Business,,,,BK-043
+TRP-2024-044,Aisha Okonkwo,HR,2024-03-14,Flight,JNB,LHR,,Economy,,,,BK-044
+TRP-2024-045,Diego Ramirez,Engineering,2024-03-16,Flight,FRA,MEX,,Economy,,,,BK-045

@@ -1,0 +1,25 @@
+account_number,meter_id,site_name,billing_start,billing_end,consumption_kwh,unit,tariff,demand_kw,supply_voltage
+ACC-2024-001,MTR-FRA-001,Frankfurt HQ - Main Building,2023-12-18,2024-01-19,148500,kWh,HT-Gewerbe,320,MV
+ACC-2024-001,MTR-FRA-002,Frankfurt HQ - Server Room,2023-12-18,2024-01-19,62300,kWh,NT-Gewerbe,180,MV
+ACC-2024-002,MTR-MUC-001,Munich Plant - Production Floor,2023-12-22,2024-01-23,284700,kWh,HT-Industrie,850,HV
+ACC-2024-002,MTR-MUC-002,Munich Plant - Offices,2023-12-22,2024-01-23,41200,kWh,HT-Gewerbe,95,LV
+ACC-2024-003,MTR-LON-001,London Office,2024-01-01,2024-01-31,73400,kWh,Business Standard,210,LV
+ACC-2024-004,MTR-AMS-001,Amsterdam Warehouse,2024-01-05,2024-02-04,96800,kWh,Zakelijk Groot,240,MV
+ACC-2024-001,MTR-FRA-001,Frankfurt HQ - Main Building,2024-01-19,2024-02-21,155200,kWh,HT-Gewerbe,325,MV
+ACC-2024-001,MTR-FRA-002,Frankfurt HQ - Server Room,2024-01-19,2024-02-21,63100,kWh,NT-Gewerbe,182,MV
+ACC-2024-002,MTR-MUC-001,Munich Plant - Production Floor,2024-01-23,2024-02-22,291400,kWh,HT-Industrie,862,HV
+ACC-2024-002,MTR-MUC-002,Munich Plant - Offices,2024-01-23,2024-02-22,38900,kWh,HT-Gewerbe,90,LV
+ACC-2024-003,MTR-LON-001,London Office,2024-02-01,2024-02-29,68100,kWh,Business Standard,205,LV
+ACC-2024-004,MTR-AMS-001,Amsterdam Warehouse,2024-02-04,2024-03-05,91200,kWh,Zakelijk Groot,228,MV
+ACC-2024-001,MTR-FRA-001,Frankfurt HQ - Main Building,2024-02-21,2024-03-22,149800,kWh,HT-Gewerbe,318,MV
+ACC-2024-002,MTR-MUC-001,Munich Plant - Production Floor,2024-02-22,2024-03-24,312600,kWh,HT-Industrie,891,HV
+ACC-2024-005,MTR-SIN-001,Singapore Hub,2024-02-01,2024-02-29,52.4,MWh,C2S Large,148,MV
+ACC-2024-005,MTR-SIN-001,Singapore Hub,2024-03-01,2024-03-31,54.1,MWh,C2S Large,155,MV
+ACC-2024-003,MTR-LON-001,London Office,2024-03-01,2024-03-31,71500,kWh,Business Standard,212,LV
+ACC-2024-004,MTR-AMS-001,Amsterdam Warehouse,2024-03-05,2024-04-04,88700,kWh,Zakelijk Groot,222,MV
+ACC-2024-006,MTR-FRA-003,Frankfurt HQ - Parking/EV,2024-03-01,2024-03-31,,kWh,EV-Tariff,45,LV
+ACC-2024-001,MTR-FRA-001,Frankfurt HQ - Main Building,2024-03-22,2024-04-23,162300,kWh,HT-Gewerbe,331,MV
+ACC-2024-002,MTR-MUC-001,Munich Plant - Production Floor,2024-03-24,2024-04-25,305100,kWh,HT-Industrie,875,HV
+ACC-2024-005,MTR-SIN-001,Singapore Hub,2024-04-01,2024-04-30,58.9,MWh,C2S Large,162,MV
+ACC-2024-003,MTR-LON-001,London Office,2024-04-01,2024-04-30,69800,kWh,Business Standard,208,LV
+ACC-2024-007,MTR-FRA-999,Frankfurt HQ - Unknown Meter,2024-04-01,2024-04-30,14200,kWh,Unknown,,LV
