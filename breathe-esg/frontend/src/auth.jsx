@@ -1,5 +1,5 @@
 import { createContext, useContext, useState } from 'react'
-import axios from 'axios'
+import api from './api'
 
 const AuthContext = createContext(null)
 
@@ -10,7 +10,7 @@ export function AuthProvider({ children }) {
   })
 
   async function login(username, password) {
-    const { data } = await axios.post('/api/auth/token/', { username, password })
+    const { data } = await api.post('/auth/token/', { username, password })
     localStorage.setItem('access_token', data.access)
     localStorage.setItem('refresh_token', data.refresh)
     localStorage.setItem('username', username)
