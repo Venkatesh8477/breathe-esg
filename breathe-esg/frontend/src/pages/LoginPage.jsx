@@ -26,7 +26,7 @@ export default function LoginPage() {
           message = err.response.data?.detail || `Server returned ${err.response.status}`
         }
       } else {
-        message = 'Unable to reach backend. Start Django at http://localhost:8000.'
+        message = 'Unable to reach backend. Check the backend URL and ensure the backend is running.'
       }
       setError(message)
     } finally {

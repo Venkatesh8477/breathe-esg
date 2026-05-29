@@ -1,6 +1,7 @@
 import axios from 'axios'
 
-const apiUrl = import.meta.env.VITE_API_URL || ''
+const envUrl = import.meta.env.VITE_API_URL || ''
+const apiUrl = envUrl || (typeof window !== 'undefined' && ['localhost', '127.0.0.1'].includes(window.location.hostname) ? '' : 'https://breathe-esg-i5iv.onrender.com')
 const baseURL = apiUrl ? `${apiUrl}/api` : '/api'
 const api = axios.create({ baseURL })
 
