@@ -9,6 +9,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     "breathe-esg-i5iv.onrender.com",
+    "breathe-esg-murex.vercel.app",
+    "breathe-fit1fo06a-venkatesh8477s-projects.vercel.app",
     "localhost",
     "127.0.0.1",
 ]
@@ -84,7 +86,8 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
 CORS_ALLOWED_ORIGINS = [
-    "https://your-vercel-app.vercel.app",
+    "https://breathe-esg-murex.vercel.app",
+    "https://breathe-fit1fo06a-venkatesh8477s-projects.vercel.app",
 ]
 
 REST_FRAMEWORK = {
